@@ -1,0 +1,831 @@
+"","CustomerID","OfferID","value","interest","CategoryID","CategoryName","CategoriesCSV"
+"1",11,11822,"6","NO",100200,"Housekeeping","Home and Living,Furniture and Decor,Electronics and Gadgets"
+"2",11,12020,"14","NO",50000,"Food and Beverages",NA
+"3",11,12020,"14","NO",50100,"Fast Food",NA
+"4",11,12122,"8","NO",80000,"Grocery",NA
+"5",11,12124,"4","NO",50000,"Food and Beverages",NA
+"6",11,12124,"4","NO",50100,"Fast Food",NA
+"7",11,12154,"12","NO",60100,"Sports","Home and Living,Furniture and Decor,Health and Beauty"
+"8",11,12156,"4","NO",50000,"Food and Beverages","Food and Beverages,Fast Food"
+"9",11,12156,"4","NO",50100,"Fast Food","Food and Beverages,Fast Food"
+"10",11,12201,"2","NO",80000,"Grocery","Grocery"
+"11",11,12324,"4","YES",110000,"Kids and Toddlers",NA
+"12",11,12324,"4","YES",110300,"Baby Care",NA
+"13",11,12598,"4","NO",80000,"Grocery","Grocery"
+"14",11,12599,"2","NO",80000,"Grocery","Grocery"
+"15",11,12608,"4","NO",80000,"Grocery","Food and Beverages,Fast Food"
+"16",11,12739,"6","NO",110000,"Kids and Toddlers",NA
+"17",11,12739,"6","NO",110100,"Kids Fashion",NA
+"18",11,12902,"4","NO",10000,"Fashion",NA
+"19",11,12902,"4","NO",10600,"Eyewear",NA
+"20",11,13393,"4","NO",120000,"Online Recharge","Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge"
+"21",11,13393,"4","NO",120100,"Mobile Recharge","Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge"
+"22",11,13393,"4","NO",120200,"Data Card Recharge","Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge"
+"23",11,13393,"4","NO",120300,"DTH Recharge","Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge"
+"24",11,13859,"4","YES",100000,"Home and Living",NA
+"25",11,13859,"4","YES",100100,"Furniture and Decor",NA
+"26",11,14045,"6","NO",150000,"Travel",NA
+"27",11,14045,"6","NO",150100,"Domestic Flights",NA
+"28",11,14134,"4","NO",40700,"Personal Care Appliances","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"29",11,14134,"4","NO",40800,"Home Appliances","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"30",11,14134,"4","NO",90200,"Body Care","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"31",11,14134,"4","NO",100100,"Furniture and Decor","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"32",11,14134,"4","NO",100200,"Housekeeping","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"33",11,14134,"4","NO",100300,"Pet Supplies","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"34",11,14134,"4","NO",100400,"Kitchenware","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"35",11,14134,"4","NO",110000,"Kids and Toddlers","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"36",11,14134,"4","NO",110300,"Baby Care","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"37",11,14134,"4","NO",110500,"Baby Gears","Electronics and Gadgets,Personal Care Appliances,Home Appliances,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Baby Care,Baby Gears"
+"38",11,14341,"4","NO",150000,"Travel",NA
+"39",11,14341,"4","NO",150100,"Domestic Flights",NA
+"40",11,14408,"4","NO",120000,"Online Recharge","Online Recharge,Mobile Recharge"
+"41",11,14408,"4","NO",120100,"Mobile Recharge","Online Recharge,Mobile Recharge"
+"42",11,14409,"2","NO",120000,"Online Recharge","Online Recharge,Mobile Recharge"
+"43",11,14409,"2","NO",120100,"Mobile Recharge","Online Recharge,Mobile Recharge"
+"44",11,14410,"6","NO",120000,"Online Recharge",NA
+"45",11,14410,"6","NO",120100,"Mobile Recharge",NA
+"46",11,14410,"6","NO",120200,"Data Card Recharge",NA
+"47",11,14413,"8","NO",120000,"Online Recharge","Online Recharge,Data Card Recharge"
+"48",11,14413,"8","NO",120200,"Data Card Recharge","Online Recharge,Data Card Recharge"
+"49",11,14414,"4","YES",120000,"Online Recharge","Online Recharge,Data Card Recharge"
+"50",11,14414,"4","YES",120200,"Data Card Recharge","Online Recharge,Data Card Recharge"
+"51",11,14523,"4","NO",50000,"Food and Beverages",NA
+"52",11,14523,"4","NO",50200,"Restaurants",NA
+"53",11,15033,"4","NO",50000,"Food and Beverages","NULL"
+"54",11,15033,"4","NO",50100,"Fast Food","NULL"
+"55",13,15224,"4","NO",60000,"Entertainment","Entertainment,Movies"
+"56",13,15224,"4","NO",60800,"Movies","Entertainment,Movies"
+"57",13,15225,"2","NO",60000,"Entertainment",NA
+"58",13,15225,"2","NO",60200,"Events",NA
+"59",13,15225,"2","NO",60800,"Movies",NA
+"60",13,15283,"4","YES",10000,"Fashion",NA
+"61",13,15283,"4","YES",10100,"Mens Apparels",NA
+"62",13,15283,"4","YES",10200,"Womens Apparels",NA
+"63",13,15283,"4","YES",10300,"Watches",NA
+"64",13,15283,"4","YES",10400,"Ethnic Wear",NA
+"65",13,15283,"4","YES",10500,"Lingerie",NA
+"66",13,15283,"4","YES",10600,"Eyewear",NA
+"67",13,15283,"4","YES",10700,"Footwear",NA
+"68",13,15283,"4","YES",10800,"Handbags and Wallets",NA
+"69",13,15283,"4","YES",10900,"Jewellery",NA
+"70",13,15283,"4","YES",11000,"Fashion Accessories",NA
+"71",13,15283,"4","YES",20000,"Training and Materials",NA
+"72",13,15283,"4","YES",30000,"Car and Bike Accessories",NA
+"73",13,15283,"4","YES",40000,"Electronics and Gadgets",NA
+"74",13,15283,"4","YES",40100,"Cameras",NA
+"75",13,15283,"4","YES",40200,"Gaming Consoles",NA
+"76",13,15283,"4","YES",40300,"Computers and Laptops",NA
+"77",13,15283,"4","YES",40400,"Computer Accessories",NA
+"78",13,15283,"4","YES",40500,"Mobiles and Tablets",NA
+"79",13,15283,"4","YES",40600,"Mobile Accessories",NA
+"80",13,15283,"4","YES",40700,"Personal Care Appliances",NA
+"81",13,15283,"4","YES",40800,"Home Appliances",NA
+"82",13,15283,"4","YES",60000,"Entertainment",NA
+"83",13,15283,"4","YES",60100,"Sports",NA
+"84",13,15283,"4","YES",60400,"CDs Books and Magazine",NA
+"85",13,15283,"4","YES",60500,"Gaming",NA
+"86",13,15283,"4","YES",60600,"Music",NA
+"87",13,15283,"4","YES",60700,"Board Games and Toys",NA
+"88",13,15283,"4","YES",90000,"Health and Beauty",NA
+"89",13,15283,"4","YES",90200,"Body Care",NA
+"90",13,15283,"4","YES",90300,"Mens Grooming",NA
+"91",13,15283,"4","YES",90400,"Makeup Products",NA
+"92",13,15283,"4","YES",90500,"Fitness",NA
+"93",13,15283,"4","YES",90600,"Nutrition",NA
+"94",13,15283,"4","YES",100000,"Home and Living",NA
+"95",13,15283,"4","YES",100100,"Furniture and Decor",NA
+"96",13,15283,"4","YES",100200,"Housekeeping",NA
+"97",13,15283,"4","YES",100300,"Pet Supplies",NA
+"98",13,15283,"4","YES",100400,"Kitchenware",NA
+"99",13,15283,"4","YES",110000,"Kids and Toddlers",NA
+"100",13,15283,"4","YES",110100,"Kids Fashion",NA
+"101",13,15283,"4","YES",110200,"School Stuff",NA
+"102",13,15283,"4","YES",110300,"Baby Care",NA
+"103",13,15283,"4","YES",110400,"Maternity",NA
+"104",13,15283,"4","YES",110500,"Baby Gears",NA
+"105",13,15283,"4","YES",130000,"Software and IT",NA
+"106",13,15283,"4","YES",130100,"Computer Softwares",NA
+"107",13,15283,"4","YES",140000,"Stationary",NA
+"108",13,15283,"4","YES",140100,"Office Supplies",NA
+"109",13,15284,"4","NO",10000,"Fashion",NA
+"110",13,15284,"4","NO",10100,"Mens Apparels",NA
+"111",13,15284,"4","NO",10200,"Womens Apparels",NA
+"112",13,15284,"4","NO",10300,"Watches",NA
+"113",13,15284,"4","NO",10400,"Ethnic Wear",NA
+"114",13,15284,"4","NO",10500,"Lingerie",NA
+"115",13,15284,"4","NO",10600,"Eyewear",NA
+"116",13,15284,"4","NO",10700,"Footwear",NA
+"117",13,15284,"4","NO",10800,"Handbags and Wallets",NA
+"118",13,15284,"4","NO",10900,"Jewellery",NA
+"119",13,15284,"4","NO",11000,"Fashion Accessories",NA
+"120",13,15284,"4","NO",20000,"Training and Materials",NA
+"121",13,15284,"4","NO",30000,"Car and Bike Accessories",NA
+"122",13,15284,"4","NO",40000,"Electronics and Gadgets",NA
+"123",13,15284,"4","NO",40100,"Cameras",NA
+"124",13,15284,"4","NO",40200,"Gaming Consoles",NA
+"125",13,15284,"4","NO",40300,"Computers and Laptops",NA
+"126",13,15284,"4","NO",40400,"Computer Accessories",NA
+"127",13,15284,"4","NO",40500,"Mobiles and Tablets",NA
+"128",13,15284,"4","NO",40600,"Mobile Accessories",NA
+"129",13,15284,"4","NO",40700,"Personal Care Appliances",NA
+"130",13,15284,"4","NO",40800,"Home Appliances",NA
+"131",13,15284,"4","NO",60000,"Entertainment",NA
+"132",13,15284,"4","NO",60100,"Sports",NA
+"133",13,15284,"4","NO",60400,"CDs Books and Magazine",NA
+"134",13,15284,"4","NO",60500,"Gaming",NA
+"135",13,15284,"4","NO",60600,"Music",NA
+"136",13,15284,"4","NO",60700,"Board Games and Toys",NA
+"137",13,15284,"4","NO",90000,"Health and Beauty",NA
+"138",13,15284,"4","NO",90200,"Body Care",NA
+"139",13,15284,"4","NO",90300,"Mens Grooming",NA
+"140",13,15284,"4","NO",90400,"Makeup Products",NA
+"141",13,15284,"4","NO",90500,"Fitness",NA
+"142",13,15284,"4","NO",90600,"Nutrition",NA
+"143",13,15284,"4","NO",100000,"Home and Living",NA
+"144",13,15284,"4","NO",100100,"Furniture and Decor",NA
+"145",13,15284,"4","NO",100200,"Housekeeping",NA
+"146",13,15284,"4","NO",100300,"Pet Supplies",NA
+"147",13,15284,"4","NO",100400,"Kitchenware",NA
+"148",13,15284,"4","NO",110000,"Kids and Toddlers",NA
+"149",13,15284,"4","NO",110100,"Kids Fashion",NA
+"150",13,15284,"4","NO",110200,"School Stuff",NA
+"151",13,15284,"4","NO",110300,"Baby Care",NA
+"152",13,15284,"4","NO",110400,"Maternity",NA
+"153",13,15284,"4","NO",110500,"Baby Gears",NA
+"154",13,15284,"4","NO",130000,"Software and IT",NA
+"155",13,15284,"4","NO",130100,"Computer Softwares",NA
+"156",13,15284,"4","NO",140000,"Stationary",NA
+"157",13,15284,"4","NO",140100,"Office Supplies",NA
+"158",13,15599,"6","NO",50000,"Food and Beverages",NA
+"159",13,15599,"6","NO",50200,"Restaurants",NA
+"160",14,15679,"8","NO",80000,"Grocery",NA
+"161",14,15831,"8","NO",110100,"Kids Fashion","NULL"
+"162",14,15836,"8","NO",90100,"Spas Saloons and Parlors",NA
+"163",14,15836,"8","NO",90200,"Body Care",NA
+"164",14,15851,"2","NO",50100,"Fast Food",NA
+"165",14,15851,"2","NO",50200,"Restaurants",NA
+"166",14,15851,"2","NO",120000,"Online Recharge",NA
+"167",14,15851,"2","NO",120100,"Mobile Recharge",NA
+"168",14,15851,"2","NO",120200,"Data Card Recharge",NA
+"169",14,15851,"2","NO",120300,"DTH Recharge",NA
+"170",14,15852,"14","NO",50100,"Fast Food",NA
+"171",14,15852,"14","NO",50200,"Restaurants",NA
+"172",14,15852,"14","NO",120000,"Online Recharge",NA
+"173",14,15852,"14","NO",120100,"Mobile Recharge",NA
+"174",14,15852,"14","NO",120200,"Data Card Recharge",NA
+"175",14,15852,"14","NO",120300,"DTH Recharge",NA
+"176",14,16008,"4","NO",10600,"Eyewear","NULL"
+"177",14,16066,"4","NO",10200,"Womens Apparels","NULL"
+"178",151,16078,"4","NO",10700,"Footwear","NULL"
+"179",151,16079,"4","NO",10700,"Footwear","NULL"
+"180",163,16146,"10","NO",10000,"Fashion","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"181",163,16146,"10","NO",10100,"Mens Apparels","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"182",163,16146,"10","NO",10200,"Womens Apparels","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"183",163,16146,"10","NO",10300,"Watches","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"184",163,16146,"10","NO",10400,"Ethnic Wear","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"185",163,16146,"10","NO",10500,"Lingerie","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"186",163,16146,"10","NO",10600,"Eyewear","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"187",163,16146,"10","NO",10700,"Footwear","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"188",163,16146,"10","NO",10800,"Handbags and Wallets","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"189",163,16146,"10","NO",10900,"Jewellery","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"190",163,16146,"10","NO",11000,"Fashion Accessories","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"191",163,16146,"10","NO",30000,"Car and Bike Accessories","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"192",163,16146,"10","NO",40000,"Electronics and Gadgets","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"193",163,16146,"10","NO",40100,"Cameras","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"194",163,16146,"10","NO",40200,"Gaming Consoles","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"195",163,16146,"10","NO",40300,"Computers and Laptops","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"196",163,16146,"10","NO",40400,"Computer Accessories","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"197",163,16146,"10","NO",40500,"Mobiles and Tablets","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"198",163,16146,"10","NO",40600,"Mobile Accessories","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"199",163,16146,"10","NO",40700,"Personal Care Appliances","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"200",163,16146,"10","NO",40800,"Home Appliances","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"201",163,16146,"10","NO",60000,"Entertainment","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"202",163,16146,"10","NO",60100,"Sports","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"203",163,16146,"10","NO",60700,"Board Games and Toys","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"204",163,16146,"10","NO",90000,"Health and Beauty","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"205",163,16146,"10","NO",90200,"Body Care","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"206",163,16146,"10","NO",90300,"Mens Grooming","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"207",163,16146,"10","NO",90400,"Makeup Products","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"208",163,16146,"10","NO",90500,"Fitness","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"209",163,16146,"10","NO",90600,"Nutrition","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"210",163,16146,"10","NO",100000,"Home and Living","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"211",163,16146,"10","NO",100100,"Furniture and Decor","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"212",163,16146,"10","NO",100200,"Housekeeping","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"213",163,16146,"10","NO",100300,"Pet Supplies","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"214",163,16146,"10","NO",100400,"Kitchenware","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"215",163,16146,"10","NO",110000,"Kids and Toddlers","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"216",163,16146,"10","NO",110100,"Kids Fashion","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"217",163,16146,"10","NO",110200,"School Stuff","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"218",163,16146,"10","NO",110300,"Baby Care","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"219",163,16146,"10","NO",110400,"Maternity","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"220",163,16146,"10","NO",110500,"Baby Gears","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"221",163,16146,"10","NO",120000,"Online Recharge","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"222",163,16146,"10","NO",120100,"Mobile Recharge","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"223",163,16146,"10","NO",120200,"Data Card Recharge","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"224",163,16146,"10","NO",120300,"DTH Recharge","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"225",163,16146,"10","NO",140000,"Stationary","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"226",163,16146,"10","NO",140100,"Office Supplies","Fashion,Mens Apparels,Womens Apparels,Watches,Ethnic Wear,Lingerie,Eyewear,Footwear,Handbags and Wallets,Jewellery,Fashion Accessories,Car and Bike Accessories,Electronics and Gadgets,Cameras,Gaming Consoles,Computers and Laptops,Computer Accessories,Mobiles and Tablets,Mobile Accessories,Personal Care Appliances,Home Appliances,Entertainment,Sports,Board Games and Toys,Health and Beauty,Body Care,Mens Grooming,Makeup Products,Fitness,Nutrition,Home and Living,Furniture and Decor,Housekeeping,Pet Supplies,Kitchenware,Kids and Toddlers,Kids Fashion,School Stuff,Baby Care,Maternity,Baby Gears,Online Recharge,Mobile Recharge,Data Card Recharge,DTH Recharge,Stationary,Office Supplies"
+"227",22,18146,"6","NO",100100,"Furniture and Decor",NA
+"228",22,18151,"42","NO",10000,"Fashion","NULL"
+"229",22,18151,"42","NO",10200,"Womens Apparels","NULL"
+"230",22,18152,"8","NO",10000,"Fashion",NA
+"231",22,18152,"8","NO",10200,"Womens Apparels",NA
+"232",22,18481,"4","NO",50000,"Food and Beverages",NA
+"233",22,18481,"4","NO",50100,"Fast Food",NA
+"234",22,18481,"4","NO",50200,"Restaurants",NA
+"235",22,19019,"10","NO",120000,"Online Recharge",NA
+"236",22,19019,"10","NO",120100,"Mobile Recharge",NA
+"237",22,19029,"4","NO",40000,"Electronics and Gadgets","NULL"
+"238",22,19029,"4","NO",100100,"Furniture and Decor","NULL"
+"239",22,19145,"4","NO",50000,"Food and Beverages",NA
+"240",22,19145,"4","NO",50100,"Fast Food",NA
+"241",22,19145,"4","NO",50200,"Restaurants",NA
+"242",22,19222,"4","NO",90000,"Health and Beauty",NA
+"243",22,19222,"4","NO",90600,"Nutrition",NA
+"244",22,19306,"12","NO",100000,"Home and Living","Home and Living,Housekeeping"
+"245",22,19306,"12","NO",100200,"Housekeeping","Home and Living,Housekeeping"
+"246",22,19371,"4","NO",40800,"Home Appliances","NULL"
+"247",22,19413,"4","YES",60700,"Board Games and Toys",NA
+"248",22,19413,"4","YES",110100,"Kids Fashion",NA
+"249",22,19413,"4","YES",110200,"School Stuff",NA
+"250",22,19413,"4","YES",110300,"Baby Care",NA
+"251",22,19413,"4","YES",110400,"Maternity",NA
+"252",22,19413,"4","YES",110500,"Baby Gears",NA
+"253",22,19436,"4","NO",10600,"Eyewear",NA
+"254",22,19475,"4","NO",50100,"Fast Food",NA
+"255",22,19475,"4","NO",50200,"Restaurants",NA
+"256",22,19496,"4","NO",10700,"Footwear",NA
+"257",22,19522,"4","YES",50000,"Food and Beverages",NA
+"258",22,19522,"4","YES",50100,"Fast Food",NA
+"259",22,19522,"4","YES",50200,"Restaurants",NA
+"260",22,19698,"4","NO",10600,"Eyewear","NULL"
+"261",22,19727,"4","NO",50100,"Fast Food",NA
+"262",22,19744,"4","NO",40000,"Electronics and Gadgets",NA
+"263",22,19744,"4","NO",40800,"Home Appliances",NA
+"264",22,19777,"6","NO",100100,"Furniture and Decor","NULL"
+"265",22,19778,"10","NO",100100,"Furniture and Decor",NA
+"266",22,19779,"6","NO",10000,"Fashion","NULL"
+"267",22,19780,"4","NO",30000,"Car and Bike Accessories","NULL"
+"268",22,19839,"4","NO",100000,"Home and Living",NA
+"269",22,19839,"4","NO",100400,"Kitchenware",NA
+"270",22,19853,"6","NO",30000,"Car and Bike Accessories","NULL"
+"271",22,19941,"6","NO",10000,"Fashion",NA
+"272",22,19941,"6","NO",10100,"Mens Apparels",NA
+"273",22,19941,"6","NO",10200,"Womens Apparels",NA
+"274",22,19996,"4","NO",40000,"Electronics and Gadgets",NA
+"275",22,19996,"4","NO",40500,"Mobiles and Tablets",NA
+"276",22,20002,"4","NO",60000,"Entertainment",NA
+"277",22,20002,"4","NO",60800,"Movies",NA
+"278",22,20003,"2","NO",50000,"Food and Beverages",NA
+"279",22,20003,"2","NO",50100,"Fast Food",NA
+"280",22,20004,"6","NO",50000,"Food and Beverages",NA
+"281",22,20004,"6","NO",50100,"Fast Food",NA
+"282",22,20059,"2","NO",120000,"Online Recharge",NA
+"283",22,20059,"2","NO",120100,"Mobile Recharge",NA
+"284",22,20097,"2","YES",60100,"Sports","NULL"
+"285",22,20097,"2","YES",150000,"Travel","NULL"
+"286",22,20130,"10","NO",10000,"Fashion",NA
+"287",22,20130,"10","NO",10700,"Footwear",NA
+"288",22,20131,"8","YES",10000,"Fashion",NA
+"289",22,20131,"8","YES",10300,"Watches",NA
+"290",22,20133,"4","YES",10000,"Fashion",NA
+"291",22,20133,"4","YES",10900,"Jewellery",NA
+"292",22,20134,"16","NO",10000,"Fashion",NA
+"293",22,20134,"16","NO",10600,"Eyewear",NA
+"294",22,20135,"4","NO",10000,"Fashion",NA
+"295",22,20135,"4","NO",10800,"Handbags and Wallets",NA
+"296",22,20135,"4","NO",150000,"Travel",NA
+"297",22,20135,"4","NO",150700,"Travel Accessories",NA
+"298",22,20136,"4","NO",60700,"Board Games and Toys",NA
+"299",22,20136,"4","NO",110000,"Kids and Toddlers",NA
+"300",22,20186,"4","NO",40000,"Electronics and Gadgets",NA
+"301",22,20186,"4","NO",40600,"Mobile Accessories",NA
+"302",22,20188,"6","NO",100000,"Home and Living",NA
+"303",22,20188,"6","NO",100100,"Furniture and Decor",NA
+"304",22,20189,"4","YES",50000,"Food and Beverages",NA
+"305",22,20189,"4","YES",50200,"Restaurants",NA
+"306",22,20197,"6","NO",10000,"Fashion",NA
+"307",22,20197,"6","NO",10700,"Footwear",NA
+"308",22,20229,"4","NO",50000,"Food and Beverages",NA
+"309",22,20229,"4","NO",50100,"Fast Food",NA
+"310",22,20229,"4","NO",50200,"Restaurants",NA
+"311",22,20248,"6","NO",80000,"Grocery",NA
+"312",22,20291,"2","NO",100400,"Kitchenware","NULL"
+"313",22,20306,"4","NO",100200,"Housekeeping","NULL"
+"314",22,20309,"300","NO",10000,"Fashion","NULL"
+"315",22,20309,"300","NO",10100,"Mens Apparels","NULL"
+"316",22,20311,"4","YES",40000,"Electronics and Gadgets","NULL"
+"317",22,20371,"6","NO",40000,"Electronics and Gadgets",NA
+"318",22,20371,"6","NO",40800,"Home Appliances",NA
+"319",22,20388,"4","NO",90000,"Health and Beauty",NA
+"320",22,20388,"4","NO",90500,"Fitness",NA
+"321",22,20463,"4","NO",100400,"Kitchenware","NULL"
+"322",22,20480,"6","NO",110000,"Kids and Toddlers",NA
+"323",22,20480,"6","NO",110300,"Baby Care",NA
+"324",22,20487,"4","NO",100000,"Home and Living",NA
+"325",22,20487,"4","NO",100100,"Furniture and Decor",NA
+"326",22,20487,"4","NO",100400,"Kitchenware",NA
+"327",22,20594,"4","NO",10000,"Fashion",NA
+"328",22,20594,"4","NO",10200,"Womens Apparels",NA
+"329",22,20596,"10","NO",10700,"Footwear",NA
+"330",22,20597,"4","NO",40000,"Electronics and Gadgets","NULL"
+"331",22,20597,"4","NO",40800,"Home Appliances","NULL"
+"332",22,20602,"6","NO",110100,"Kids Fashion","NULL"
+"333",22,20610,"12","NO",10600,"Eyewear",NA
+"334",22,20612,"4","NO",10000,"Fashion","NULL"
+"335",22,20612,"4","NO",10100,"Mens Apparels","NULL"
+"336",22,20617,"4","NO",100000,"Home and Living",NA
+"337",22,20617,"4","NO",100100,"Furniture and Decor",NA
+"338",22,20662,"2","NO",40000,"Electronics and Gadgets",NA
+"339",22,20662,"2","NO",40500,"Mobiles and Tablets",NA
+"340",245,20673,"4","NO",80000,"Grocery","Grocery"
+"341",245,20726,"2","NO",90000,"Health and Beauty",NA
+"342",245,20726,"2","NO",90100,"Spas Saloons and Parlors",NA
+"343",245,20730,"14","NO",10000,"Fashion","NULL"
+"344",245,20730,"14","NO",10100,"Mens Apparels","NULL"
+"345",245,20744,"2","YES",90000,"Health and Beauty",NA
+"346",245,20744,"2","YES",90100,"Spas Saloons and Parlors",NA
+"347",245,20774,"4","NO",40000,"Electronics and Gadgets",NA
+"348",245,20774,"4","NO",40500,"Mobiles and Tablets",NA
+"349",254,20864,"4","YES",10000,"Fashion",NA
+"350",254,20864,"4","YES",40000,"Electronics and Gadgets",NA
+"351",254,20864,"4","YES",40800,"Home Appliances",NA
+"352",254,20864,"4","YES",60000,"Entertainment",NA
+"353",289,21034,"8","NO",90100,"Spas Saloons and Parlors",NA
+"354",289,21036,"2","YES",100000,"Home and Living","NULL"
+"355",289,21036,"2","YES",100100,"Furniture and Decor","NULL"
+"356",289,21105,"4","NO",90000,"Health and Beauty","NULL"
+"357",289,21105,"4","NO",90100,"Spas Saloons and Parlors","NULL"
+"358",3,21108,"28","NO",100100,"Furniture and Decor","NULL"
+"359",3,21109,"30","NO",100000,"Home and Living","NULL"
+"360",3,21110,"28","NO",100000,"Home and Living","NULL"
+"361",3,21110,"28","NO",100100,"Furniture and Decor","NULL"
+"362",3,21111,"42","NO",100000,"Home and Living","NULL"
+"363",3,21111,"42","NO",100100,"Furniture and Decor","NULL"
+"364",3,21113,"42","YES",100000,"Home and Living","NULL"
+"365",3,21113,"42","YES",100100,"Furniture and Decor","NULL"
+"366",3,21114,"18","NO",100000,"Home and Living","NULL"
+"367",3,21114,"18","NO",100100,"Furniture and Decor","NULL"
+"368",3,21125,"4","NO",10000,"Fashion",NA
+"369",3,21125,"4","NO",10100,"Mens Apparels",NA
+"370",3,21125,"4","NO",10200,"Womens Apparels",NA
+"371",3,21126,"4","NO",90000,"Health and Beauty",NA
+"372",3,21126,"4","NO",90100,"Spas Saloons and Parlors",NA
+"373",3,21236,"4","NO",40000,"Electronics and Gadgets",NA
+"374",3,21236,"4","NO",40800,"Home Appliances",NA
+"375",3,21582,"2","NO",150000,"Travel",NA
+"376",3,21582,"2","NO",150200,"International Flights",NA
+"377",3,21617,"6","NO",10700,"Footwear",NA
+"378",3,21622,"14","NO",100000,"Home and Living","NULL"
+"379",3,21622,"14","NO",100100,"Furniture and Decor","NULL"
+"380",3,21624,"2","NO",90000,"Health and Beauty",NA
+"381",3,21624,"2","NO",90100,"Spas Saloons and Parlors",NA
+"382",3,21625,"8","NO",90000,"Health and Beauty",NA
+"383",3,21625,"8","NO",90100,"Spas Saloons and Parlors",NA
+"384",3,21629,"6","NO",100000,"Home and Living",NA
+"385",3,21629,"6","NO",100100,"Furniture and Decor",NA
+"386",3,21630,"80","NO",0,NA,"NULL"
+"387",3,21630,"80","NO",100000,"Home and Living","NULL"
+"388",3,21630,"80","NO",100100,"Furniture and Decor","NULL"
+"389",3,21631,"110","NO",100000,"Home and Living","NULL"
+"390",3,21631,"110","NO",100100,"Furniture and Decor","NULL"
+"391",3,21632,"18","NO",10000,"Fashion","NULL"
+"392",3,21632,"18","NO",10100,"Mens Apparels","NULL"
+"393",3,21632,"18","NO",10200,"Womens Apparels","NULL"
+"394",3,21633,"8","NO",50200,"Restaurants",NA
+"395",3,21738,"4","NO",40300,"Computers and Laptops",NA
+"396",3,21738,"4","NO",40400,"Computer Accessories",NA
+"397",3,21755,"4","NO",40000,"Electronics and Gadgets",NA
+"398",3,21755,"4","NO",40500,"Mobiles and Tablets",NA
+"399",3,21763,"10","NO",40000,"Electronics and Gadgets",NA
+"400",3,21763,"10","NO",50000,"Food and Beverages",NA
+"401",3,21763,"10","NO",90000,"Health and Beauty",NA
+"402",3,21763,"10","NO",100000,"Home and Living",NA
+"403",3,21763,"10","NO",110000,"Kids and Toddlers",NA
+"404",3,21955,"6","NO",10600,"Eyewear","NULL"
+"405",3,21960,"4","NO",60100,"Sports",NA
+"406",3,21960,"4","NO",90500,"Fitness",NA
+"407",3,22061,"4","NO",150000,"Travel",NA
+"408",3,22061,"4","NO",150100,"Domestic Flights",NA
+"409",3,22061,"4","NO",150200,"International Flights",NA
+"410",3,22123,"4","NO",120000,"Online Recharge",NA
+"411",3,22123,"4","NO",120100,"Mobile Recharge",NA
+"412",3,22125,"10","NO",120000,"Online Recharge",NA
+"413",3,22125,"10","NO",120100,"Mobile Recharge",NA
+"414",3,22126,"4","NO",120000,"Online Recharge",NA
+"415",3,22126,"4","NO",120100,"Mobile Recharge",NA
+"416",3,22128,"4","NO",120000,"Online Recharge",NA
+"417",3,22128,"4","NO",120300,"DTH Recharge",NA
+"418",3,22131,"4","YES",120000,"Online Recharge",NA
+"419",3,22131,"4","YES",120100,"Mobile Recharge",NA
+"420",3,22131,"4","YES",120200,"Data Card Recharge",NA
+"421",3,22131,"4","YES",120300,"DTH Recharge",NA
+"422",3,22161,"8","NO",120000,"Online Recharge",NA
+"423",3,22161,"8","NO",120300,"DTH Recharge",NA
+"424",3,22162,"8","YES",120000,"Online Recharge",NA
+"425",3,22162,"8","YES",120300,"DTH Recharge",NA
+"426",3,22163,"4","NO",120000,"Online Recharge",NA
+"427",3,22163,"4","NO",120300,"DTH Recharge",NA
+"428",3,22164,"4","NO",120000,"Online Recharge",NA
+"429",3,22164,"4","NO",120300,"DTH Recharge",NA
+"430",3,22165,"4","NO",120000,"Online Recharge",NA
+"431",3,22165,"4","NO",120100,"Mobile Recharge",NA
+"432",3,22173,"4","NO",80000,"Grocery",NA
+"433",3,22290,"6","NO",90000,"Health and Beauty",NA
+"434",3,22290,"6","NO",90100,"Spas Saloons and Parlors",NA
+"435",3,22291,"34","NO",100000,"Home and Living","NULL"
+"436",3,22291,"34","NO",100100,"Furniture and Decor","NULL"
+"437",3,22292,"14","NO",40300,"Computers and Laptops","NULL"
+"438",3,22292,"14","NO",40400,"Computer Accessories","NULL"
+"439",3,22293,"36","NO",100000,"Home and Living","NULL"
+"440",3,22293,"36","NO",100100,"Furniture and Decor","NULL"
+"441",3,22294,"14","NO",100000,"Home and Living",NA
+"442",3,22294,"14","NO",100100,"Furniture and Decor",NA
+"443",3,22296,"6","NO",40300,"Computers and Laptops","NULL"
+"444",3,22296,"6","NO",40400,"Computer Accessories","NULL"
+"445",3,22297,"12","NO",40000,"Electronics and Gadgets","NULL"
+"446",3,22297,"12","NO",40300,"Computers and Laptops","NULL"
+"447",3,22297,"12","NO",40400,"Computer Accessories","NULL"
+"448",3,22338,"4","NO",100000,"Home and Living",NA
+"449",3,22338,"4","NO",100100,"Furniture and Decor",NA
+"450",3,22356,"4","NO",50000,"Food and Beverages",NA
+"451",3,22356,"4","NO",50100,"Fast Food",NA
+"452",3,22357,"4","NO",50000,"Food and Beverages",NA
+"453",3,22357,"4","NO",50100,"Fast Food",NA
+"454",3,22373,"4","NO",110000,"Kids and Toddlers",NA
+"455",3,22373,"4","NO",110300,"Baby Care",NA
+"456",3,22389,"2","NO",40000,"Electronics and Gadgets",NA
+"457",3,22389,"2","NO",40500,"Mobiles and Tablets",NA
+"458",3,22425,"8","YES",150000,"Travel",NA
+"459",3,22425,"8","YES",150100,"Domestic Flights",NA
+"460",3,22426,"4","NO",150000,"Travel",NA
+"461",3,22426,"4","NO",150100,"Domestic Flights",NA
+"462",3,22432,"4","NO",10000,"Fashion",NA
+"463",3,22432,"4","NO",10100,"Mens Apparels",NA
+"464",3,22432,"4","NO",10200,"Womens Apparels",NA
+"465",3,22432,"4","NO",10300,"Watches",NA
+"466",3,22432,"4","NO",10600,"Eyewear",NA
+"467",3,22432,"4","NO",10700,"Footwear",NA
+"468",3,22432,"4","NO",10800,"Handbags and Wallets",NA
+"469",3,22432,"4","NO",110000,"Kids and Toddlers",NA
+"470",3,22432,"4","NO",110100,"Kids Fashion",NA
+"471",3,22539,"4","NO",150000,"Travel",NA
+"472",3,22539,"4","NO",150400,"Cabs",NA
+"473",3,22572,"4","NO",40800,"Home Appliances",NA
+"474",3,22573,"8","NO",10000,"Fashion",NA
+"475",3,22573,"8","NO",10100,"Mens Apparels",NA
+"476",3,22574,"8","NO",10000,"Fashion",NA
+"477",3,22574,"8","NO",10200,"Womens Apparels",NA
+"478",3,22576,"4","YES",40700,"Personal Care Appliances",NA
+"479",3,22576,"4","YES",40800,"Home Appliances",NA
+"480",3,22658,"18","NO",10000,"Fashion",NA
+"481",3,22658,"18","NO",10900,"Jewellery",NA
+"482",3,22664,"4","NO",10600,"Eyewear","NULL"
+"483",3,22668,"4","NO",100000,"Home and Living","NULL"
+"484",3,22668,"4","NO",100100,"Furniture and Decor","NULL"
+"485",3,22679,"4","NO",40800,"Home Appliances","NULL"
+"486",3,22682,"4","NO",10100,"Mens Apparels","NULL"
+"487",3,22682,"4","NO",10200,"Womens Apparels","NULL"
+"488",3,22682,"4","NO",110100,"Kids Fashion","NULL"
+"489",3,22684,"4","NO",100000,"Home and Living","NULL"
+"490",3,22684,"4","NO",100100,"Furniture and Decor","NULL"
+"491",304,22690,"2","NO",120000,"Online Recharge",NA
+"492",304,22690,"2","NO",120100,"Mobile Recharge",NA
+"493",304,22690,"2","NO",120200,"Data Card Recharge",NA
+"494",304,22690,"2","NO",120300,"DTH Recharge",NA
+"495",304,22723,"4","YES",10100,"Mens Apparels",NA
+"496",304,22723,"4","YES",10200,"Womens Apparels",NA
+"497",304,22723,"4","YES",40000,"Electronics and Gadgets",NA
+"498",304,22723,"4","YES",90000,"Health and Beauty",NA
+"499",304,22723,"4","YES",100000,"Home and Living",NA
+"500",304,22723,"4","YES",110000,"Kids and Toddlers",NA
+"501",304,22769,"4","NO",110000,"Kids and Toddlers",NA
+"502",304,22769,"4","NO",110100,"Kids Fashion",NA
+"503",304,22770,"4","NO",40000,"Electronics and Gadgets",NA
+"504",304,22770,"4","NO",40600,"Mobile Accessories",NA
+"505",304,22829,"4","NO",150000,"Travel",NA
+"506",304,22829,"4","NO",150300,"Bus Bookings",NA
+"507",304,22873,"4","NO",150000,"Travel",NA
+"508",304,22873,"4","NO",150300,"Bus Bookings",NA
+"509",304,22874,"4","NO",120000,"Online Recharge",NA
+"510",304,22874,"4","NO",120100,"Mobile Recharge",NA
+"511",304,22874,"4","NO",120200,"Data Card Recharge",NA
+"512",304,22874,"4","NO",120300,"DTH Recharge",NA
+"513",304,22875,"4","YES",120000,"Online Recharge",NA
+"514",304,22875,"4","YES",120100,"Mobile Recharge",NA
+"515",304,22876,"4","NO",120000,"Online Recharge",NA
+"516",304,22876,"4","NO",120100,"Mobile Recharge",NA
+"517",304,22877,"4","NO",120000,"Online Recharge",NA
+"518",304,22877,"4","NO",120100,"Mobile Recharge",NA
+"519",304,22878,"4","NO",120000,"Online Recharge",NA
+"520",304,22878,"4","NO",120100,"Mobile Recharge",NA
+"521",306,22879,"8","NO",120000,"Online Recharge",NA
+"522",306,22879,"8","NO",120100,"Mobile Recharge",NA
+"523",306,22880,"4","NO",120000,"Online Recharge",NA
+"524",306,22880,"4","NO",120100,"Mobile Recharge",NA
+"525",306,22881,"4","NO",120000,"Online Recharge",NA
+"526",306,22881,"4","NO",120100,"Mobile Recharge",NA
+"527",306,22882,"8","NO",120000,"Online Recharge",NA
+"528",306,22882,"8","NO",120100,"Mobile Recharge",NA
+"529",306,22882,"8","NO",120200,"Data Card Recharge",NA
+"530",306,22882,"8","NO",120300,"DTH Recharge",NA
+"531",306,22883,"4","NO",120000,"Online Recharge",NA
+"532",306,22883,"4","NO",120100,"Mobile Recharge",NA
+"533",310,22885,"4","NO",150000,"Travel",NA
+"534",310,22885,"4","NO",150300,"Bus Bookings",NA
+"535",311,22905,"4","NO",10000,"Fashion",NA
+"536",311,22905,"4","NO",10100,"Mens Apparels",NA
+"537",311,22905,"4","NO",10200,"Womens Apparels",NA
+"538",311,22905,"4","NO",10300,"Watches",NA
+"539",311,22905,"4","NO",10400,"Ethnic Wear",NA
+"540",311,22905,"4","NO",10500,"Lingerie",NA
+"541",311,22905,"4","NO",10600,"Eyewear",NA
+"542",311,22905,"4","NO",10700,"Footwear",NA
+"543",311,22905,"4","NO",10800,"Handbags and Wallets",NA
+"544",311,22905,"4","NO",10900,"Jewellery",NA
+"545",311,22905,"4","NO",11000,"Fashion Accessories",NA
+"546",311,22905,"4","NO",30000,"Car and Bike Accessories",NA
+"547",311,22905,"4","NO",40000,"Electronics and Gadgets",NA
+"548",311,22905,"4","NO",40100,"Cameras",NA
+"549",311,22905,"4","NO",40200,"Gaming Consoles",NA
+"550",311,22905,"4","NO",40300,"Computers and Laptops",NA
+"551",311,22905,"4","NO",40400,"Computer Accessories",NA
+"552",311,22905,"4","NO",40500,"Mobiles and Tablets",NA
+"553",311,22905,"4","NO",40600,"Mobile Accessories",NA
+"554",311,22905,"4","NO",40700,"Personal Care Appliances",NA
+"555",311,22905,"4","NO",40800,"Home Appliances",NA
+"556",311,22905,"4","NO",60000,"Entertainment",NA
+"557",311,22905,"4","NO",60100,"Sports",NA
+"558",311,22905,"4","NO",60500,"Gaming",NA
+"559",311,22905,"4","NO",60700,"Board Games and Toys",NA
+"560",311,22905,"4","NO",90000,"Health and Beauty",NA
+"561",311,22905,"4","NO",90200,"Body Care",NA
+"562",311,22905,"4","NO",90300,"Mens Grooming",NA
+"563",311,22905,"4","NO",90400,"Makeup Products",NA
+"564",311,22905,"4","NO",90500,"Fitness",NA
+"565",311,22905,"4","NO",90600,"Nutrition",NA
+"566",311,22905,"4","NO",100000,"Home and Living",NA
+"567",311,22905,"4","NO",100100,"Furniture and Decor",NA
+"568",311,22905,"4","NO",100200,"Housekeeping",NA
+"569",311,22905,"4","NO",100300,"Pet Supplies",NA
+"570",311,22905,"4","NO",100400,"Kitchenware",NA
+"571",311,22905,"4","NO",110000,"Kids and Toddlers",NA
+"572",311,22905,"4","NO",110300,"Baby Care",NA
+"573",311,22905,"4","NO",110500,"Baby Gears",NA
+"574",311,22905,"4","NO",140000,"Stationary",NA
+"575",311,22905,"4","NO",140100,"Office Supplies",NA
+"576",311,22907,"4","NO",10100,"Mens Apparels",NA
+"577",311,22907,"4","NO",10200,"Womens Apparels",NA
+"578",311,22907,"4","NO",40000,"Electronics and Gadgets",NA
+"579",311,22907,"4","NO",90000,"Health and Beauty",NA
+"580",311,22907,"4","NO",100000,"Home and Living",NA
+"581",311,22907,"4","NO",110000,"Kids and Toddlers",NA
+"582",311,22927,"4","NO",150000,"Travel",NA
+"583",311,22927,"4","NO",150100,"Domestic Flights",NA
+"584",311,22929,"4","NO",150000,"Travel",NA
+"585",311,22929,"4","NO",150100,"Domestic Flights",NA
+"586",312,22996,"4","NO",150000,"Travel",NA
+"587",312,22996,"4","NO",150100,"Domestic Flights",NA
+"588",312,23064,"4","NO",90000,"Health and Beauty",NA
+"589",312,23064,"4","NO",90500,"Fitness",NA
+"590",312,23064,"4","NO",90600,"Nutrition",NA
+"591",313,23098,"4","NO",10700,"Footwear",NA
+"592",313,23100,"4","NO",0,NA,NA
+"593",313,23100,"4","NO",10300,"Watches",NA
+"594",313,23100,"4","NO",11000,"Fashion Accessories",NA
+"595",313,23101,"8","NO",10000,"Fashion",NA
+"596",313,23101,"8","NO",11000,"Fashion Accessories",NA
+"597",313,23104,"8","NO",10000,"Fashion",NA
+"598",313,23104,"8","NO",11000,"Fashion Accessories",NA
+"599",313,23125,"8","NO",150000,"Travel",NA
+"600",313,23125,"8","NO",150600,"Holidays",NA
+"601",313,23139,"4","NO",50000,"Food and Beverages",NA
+"602",313,23139,"4","NO",50100,"Fast Food",NA
+"603",313,23172,"4","YES",150000,"Travel",NA
+"604",313,23172,"4","YES",150200,"International Flights",NA
+"605",313,23269,"4","NO",10000,"Fashion",NA
+"606",313,23269,"4","NO",10200,"Womens Apparels",NA
+"607",313,23270,"4","NO",10000,"Fashion",NA
+"608",313,23270,"4","NO",10100,"Mens Apparels",NA
+"609",313,23270,"4","NO",10200,"Womens Apparels",NA
+"610",313,23270,"4","NO",11000,"Fashion Accessories",NA
+"611",313,23272,"4","NO",10000,"Fashion",NA
+"612",313,23272,"4","NO",10100,"Mens Apparels",NA
+"613",313,23272,"4","NO",10200,"Womens Apparels",NA
+"614",313,23272,"4","NO",11000,"Fashion Accessories",NA
+"615",313,23273,"4","NO",10000,"Fashion",NA
+"616",313,23273,"4","NO",10100,"Mens Apparels",NA
+"617",313,23273,"4","NO",10200,"Womens Apparels",NA
+"618",313,23273,"4","NO",11000,"Fashion Accessories",NA
+"619",313,23274,"4","NO",10000,"Fashion",NA
+"620",313,23274,"4","NO",10100,"Mens Apparels",NA
+"621",313,23274,"4","NO",10200,"Womens Apparels",NA
+"622",313,23274,"4","NO",11000,"Fashion Accessories",NA
+"623",313,23277,"4","NO",10000,"Fashion",NA
+"624",313,23277,"4","NO",10100,"Mens Apparels",NA
+"625",313,23277,"4","NO",10200,"Womens Apparels",NA
+"626",313,23277,"4","NO",11000,"Fashion Accessories",NA
+"627",313,23278,"4","NO",10000,"Fashion",NA
+"628",313,23278,"4","NO",10100,"Mens Apparels",NA
+"629",313,23278,"4","NO",10200,"Womens Apparels",NA
+"630",313,23278,"4","NO",11000,"Fashion Accessories",NA
+"631",313,23300,"4","NO",50300,"Pubs and Bars",NA
+"632",313,23304,"4","NO",50300,"Pubs and Bars",NA
+"633",313,23312,"8","NO",50300,"Pubs and Bars",NA
+"634",313,23317,"6","NO",50300,"Pubs and Bars",NA
+"635",313,23352,"8","NO",50300,"Pubs and Bars",NA
+"636",313,23358,"4","NO",50300,"Pubs and Bars",NA
+"637",313,23415,"4","NO",50300,"Pubs and Bars",NA
+"638",313,23444,"4","NO",50300,"Pubs and Bars",NA
+"639",313,23581,"4","NO",50300,"Pubs and Bars",NA
+"640",313,23584,"8","NO",50300,"Pubs and Bars",NA
+"641",313,23639,"4","NO",50300,"Pubs and Bars",NA
+"642",313,23672,"4","NO",50300,"Pubs and Bars",NA
+"643",313,23674,"4","NO",50300,"Pubs and Bars",NA
+"644",313,23728,"4","NO",50300,"Pubs and Bars",NA
+"645",313,23809,"4","NO",50300,"Pubs and Bars",NA
+"646",313,23819,"4","NO",50300,"Pubs and Bars",NA
+"647",313,23830,"8","NO",50300,"Pubs and Bars",NA
+"648",313,23833,"4","NO",50300,"Pubs and Bars",NA
+"649",313,23834,"4","NO",50300,"Pubs and Bars",NA
+"650",313,23838,"8","NO",50300,"Pubs and Bars",NA
+"651",313,23840,"12","NO",50300,"Pubs and Bars",NA
+"652",313,23841,"4","NO",50300,"Pubs and Bars",NA
+"653",313,23847,"2","NO",50300,"Pubs and Bars",NA
+"654",313,23850,"4","NO",50300,"Pubs and Bars",NA
+"655",313,23851,"4","NO",50300,"Pubs and Bars",NA
+"656",313,23859,"4","NO",50300,"Pubs and Bars",NA
+"657",313,23861,"6","NO",50300,"Pubs and Bars",NA
+"658",313,23866,"4","NO",50300,"Pubs and Bars",NA
+"659",313,23878,"16","NO",50300,"Pubs and Bars",NA
+"660",313,23884,"2","NO",50300,"Pubs and Bars",NA
+"661",313,23885,"4","YES",50300,"Pubs and Bars",NA
+"662",313,23890,"4","NO",50300,"Pubs and Bars",NA
+"663",313,23892,"4","NO",50300,"Pubs and Bars",NA
+"664",313,23899,"6","NO",50300,"Pubs and Bars",NA
+"665",313,23900,"8","NO",50300,"Pubs and Bars",NA
+"666",313,23905,"12","NO",50300,"Pubs and Bars",NA
+"667",313,23909,"8","NO",50300,"Pubs and Bars",NA
+"668",318,23913,"12","NO",50300,"Pubs and Bars",NA
+"669",319,23914,"4","NO",50300,"Pubs and Bars",NA
+"670",340,23925,"12","NO",50300,"Pubs and Bars",NA
+"671",56,24117,"20","NO",120000,"Online Recharge",NA
+"672",56,24118,"22","NO",120000,"Online Recharge",NA
+"673",56,24118,"22","NO",120300,"DTH Recharge",NA
+"674",56,24130,"4","NO",150000,"Travel",NA
+"675",56,24130,"4","NO",150400,"Cabs",NA
+"676",56,24171,"2","NO",10000,"Fashion",NA
+"677",56,24171,"2","NO",10100,"Mens Apparels",NA
+"678",56,24171,"2","NO",10200,"Womens Apparels",NA
+"679",56,24171,"2","NO",11000,"Fashion Accessories",NA
+"680",71,24172,"4","NO",10000,"Fashion",NA
+"681",71,24172,"4","NO",10100,"Mens Apparels",NA
+"682",71,24172,"4","NO",10200,"Womens Apparels",NA
+"683",71,24172,"4","NO",11000,"Fashion Accessories",NA
+"684",71,24173,"4","YES",10000,"Fashion",NA
+"685",71,24173,"4","YES",10100,"Mens Apparels",NA
+"686",71,24173,"4","YES",10200,"Womens Apparels",NA
+"687",71,24173,"4","YES",11000,"Fashion Accessories",NA
+"688",71,24177,"4","NO",10000,"Fashion",NA
+"689",71,24177,"4","NO",10100,"Mens Apparels",NA
+"690",71,24177,"4","NO",10200,"Womens Apparels",NA
+"691",71,24177,"4","NO",11000,"Fashion Accessories",NA
+"692",71,24181,"4","NO",10000,"Fashion",NA
+"693",71,24181,"4","NO",10100,"Mens Apparels",NA
+"694",71,24181,"4","NO",10200,"Womens Apparels",NA
+"695",71,24181,"4","NO",11000,"Fashion Accessories",NA
+"696",71,24187,"12","NO",10000,"Fashion",NA
+"697",71,24187,"12","NO",10100,"Mens Apparels",NA
+"698",71,24187,"12","NO",10200,"Womens Apparels",NA
+"699",71,24187,"12","NO",11000,"Fashion Accessories",NA
+"700",71,24188,"4","NO",90000,"Health and Beauty",NA
+"701",71,24188,"4","NO",110100,"Kids Fashion",NA
+"702",71,24188,"4","NO",110300,"Baby Care",NA
+"703",71,24189,"8","NO",10100,"Mens Apparels",NA
+"704",71,24189,"8","NO",10200,"Womens Apparels",NA
+"705",71,24189,"8","NO",110100,"Kids Fashion",NA
+"706",71,24189,"8","NO",110300,"Baby Care",NA
+"707",71,24190,"4","NO",10200,"Womens Apparels",NA
+"708",71,24190,"4","NO",110100,"Kids Fashion",NA
+"709",71,24190,"4","NO",110300,"Baby Care",NA
+"710",71,24198,"4","NO",10100,"Mens Apparels",NA
+"711",71,24198,"4","NO",10200,"Womens Apparels",NA
+"712",71,24198,"4","NO",11000,"Fashion Accessories",NA
+"713",71,24198,"4","NO",110100,"Kids Fashion",NA
+"714",71,24216,"4","NO",10800,"Handbags and Wallets",NA
+"715",71,24216,"4","NO",11000,"Fashion Accessories",NA
+"716",71,24231,"4","NO",10100,"Mens Apparels",NA
+"717",71,24231,"4","NO",10200,"Womens Apparels",NA
+"718",71,24231,"4","NO",10700,"Footwear",NA
+"719",71,24231,"4","NO",11000,"Fashion Accessories",NA
+"720",71,24233,"4","NO",10100,"Mens Apparels",NA
+"721",71,24233,"4","NO",10200,"Womens Apparels",NA
+"722",71,24233,"4","NO",11000,"Fashion Accessories",NA
+"723",71,24233,"4","NO",110100,"Kids Fashion",NA
+"724",71,24239,"4","NO",10700,"Footwear",NA
+"725",71,24239,"4","NO",11000,"Fashion Accessories",NA
+"726",71,24242,"4","NO",150400,"Cabs",NA
+"727",71,24245,"4","NO",10900,"Jewellery",NA
+"728",71,24245,"4","NO",11000,"Fashion Accessories",NA
+"729",71,24282,"4","NO",10000,"Fashion",NA
+"730",71,24282,"4","NO",10100,"Mens Apparels",NA
+"731",71,24282,"4","NO",10200,"Womens Apparels",NA
+"732",71,24282,"4","NO",10300,"Watches",NA
+"733",71,24282,"4","NO",10400,"Ethnic Wear",NA
+"734",71,24282,"4","NO",10500,"Lingerie",NA
+"735",71,24282,"4","NO",10600,"Eyewear",NA
+"736",71,24282,"4","NO",10700,"Footwear",NA
+"737",71,24282,"4","NO",10800,"Handbags and Wallets",NA
+"738",71,24282,"4","NO",10900,"Jewellery",NA
+"739",71,24282,"4","NO",11000,"Fashion Accessories",NA
+"740",71,24282,"4","NO",90000,"Health and Beauty",NA
+"741",71,24282,"4","NO",90300,"Mens Grooming",NA
+"742",71,24282,"4","NO",90400,"Makeup Products",NA
+"743",71,24282,"4","NO",100000,"Home and Living",NA
+"744",71,24282,"4","NO",100100,"Furniture and Decor",NA
+"745",71,24282,"4","NO",110000,"Kids and Toddlers",NA
+"746",71,24282,"4","NO",110100,"Kids Fashion",NA
+"747",71,24289,"2","NO",40000,"Electronics and Gadgets",NA
+"748",71,24289,"2","NO",40800,"Home Appliances",NA
+"749",71,24292,"2","NO",40000,"Electronics and Gadgets",NA
+"750",71,24292,"2","NO",40800,"Home Appliances",NA
+"751",71,24295,"4","NO",40000,"Electronics and Gadgets",NA
+"752",71,24295,"4","NO",40800,"Home Appliances",NA
+"753",71,24299,"4","NO",10000,"Fashion",NA
+"754",71,24299,"4","NO",10300,"Watches",NA
+"755",71,24299,"4","NO",40000,"Electronics and Gadgets",NA
+"756",71,24299,"4","NO",40600,"Mobile Accessories",NA
+"757",71,24301,"4","NO",50000,"Food and Beverages",NA
+"758",71,24301,"4","NO",50100,"Fast Food",NA
+"759",71,24302,"22","NO",120000,"Online Recharge",NA
+"760",71,24302,"22","NO",120100,"Mobile Recharge",NA
+"761",71,24303,"16","NO",120000,"Online Recharge",NA
+"762",71,24303,"16","NO",120100,"Mobile Recharge",NA
+"763",71,24303,"16","NO",120200,"Data Card Recharge",NA
+"764",71,24303,"16","NO",120300,"DTH Recharge",NA
+"765",71,24305,"10","NO",120000,"Online Recharge",NA
+"766",71,24305,"10","NO",120100,"Mobile Recharge",NA
+"767",71,24305,"10","NO",120200,"Data Card Recharge",NA
+"768",71,24305,"10","NO",120300,"DTH Recharge",NA
+"769",71,24306,"16","NO",120000,"Online Recharge",NA
+"770",71,24306,"16","NO",120100,"Mobile Recharge",NA
+"771",71,24306,"16","NO",120200,"Data Card Recharge",NA
+"772",71,24306,"16","NO",120300,"DTH Recharge",NA
+"773",71,24335,"12","NO",120000,"Online Recharge",NA
+"774",71,24335,"12","NO",120100,"Mobile Recharge",NA
+"775",71,24376,"4","NO",100000,"Home and Living","NULL"
+"776",71,24376,"4","NO",100100,"Furniture and Decor","NULL"
+"777",71,24379,"12","NO",100000,"Home and Living","NULL"
+"778",71,24379,"12","NO",100100,"Furniture and Decor","NULL"
+"779",71,24393,"10","NO",10600,"Eyewear","NULL"
+"780",71,24453,"10","YES",50000,"Food and Beverages",NA
+"781",71,24453,"10","YES",50100,"Fast Food",NA
+"782",71,24453,"10","YES",50200,"Restaurants",NA
+"783",71,24484,"8","NO",10100,"Mens Apparels","NULL"
+"784",71,24484,"8","NO",110100,"Kids Fashion","NULL"
+"785",71,24489,"4","NO",100000,"Home and Living","NULL"
+"786",71,24489,"4","NO",100100,"Furniture and Decor","NULL"
+"787",71,24500,"54","NO",10600,"Eyewear","NULL"
+"788",71,24503,"6","NO",10000,"Fashion","NULL"
+"789",71,24503,"6","NO",10200,"Womens Apparels","NULL"
+"790",71,24504,"4","NO",10100,"Mens Apparels","NULL"
+"791",71,24504,"4","NO",110100,"Kids Fashion","NULL"
+"792",71,24505,"12","NO",100000,"Home and Living",NA
+"793",71,24505,"12","NO",100100,"Furniture and Decor",NA
+"794",71,24551,"4","NO",100000,"Home and Living",NA
+"795",71,24551,"4","NO",100200,"Housekeeping",NA
+"796",71,24554,"2","NO",40000,"Electronics and Gadgets",NA
+"797",71,24554,"2","NO",40300,"Computers and Laptops",NA
+"798",71,24554,"2","NO",40500,"Mobiles and Tablets",NA
+"799",71,24558,"8","NO",150000,"Travel",NA
+"800",71,24558,"8","NO",150500,"Hotels",NA
+"801",71,24586,"8","NO",150000,"Travel",NA
+"802",71,24586,"8","NO",150300,"Bus Bookings",NA
+"803",71,24594,"8","NO",150000,"Travel",NA
+"804",71,24594,"8","NO",150300,"Bus Bookings",NA
+"805",71,24611,"4","NO",90000,"Health and Beauty",NA
+"806",71,24611,"4","NO",90200,"Body Care",NA
+"807",71,24611,"4","NO",90300,"Mens Grooming",NA
+"808",71,24611,"4","NO",90400,"Makeup Products",NA
+"809",71,24640,"4","NO",40800,"Home Appliances",NA
+"810",71,24640,"4","NO",100000,"Home and Living",NA
+"811",71,24659,"8","NO",150000,"Travel",NA
+"812",71,24659,"8","NO",150500,"Hotels",NA
+"813",71,24714,"2","NO",40500,"Mobiles and Tablets",NA
+"814",71,24714,"2","NO",40600,"Mobile Accessories",NA
+"815",71,24715,"4","NO",10000,"Fashion",NA
+"816",71,24715,"4","NO",10100,"Mens Apparels",NA
+"817",71,24715,"4","NO",10200,"Womens Apparels",NA
+"818",71,24716,"4","NO",10000,"Fashion",NA
+"819",71,24716,"4","NO",10200,"Womens Apparels",NA
+"820",71,24804,"8","NO",150000,"Travel",NA
+"821",71,24804,"8","NO",150300,"Bus Bookings",NA
+"822",75,24850,"4","NO",10100,"Mens Apparels",NA
+"823",75,24850,"4","NO",10200,"Womens Apparels",NA
+"824",75,24850,"4","NO",10700,"Footwear",NA
+"825",75,24850,"4","NO",11000,"Fashion Accessories",NA
+"826",75,24850,"4","NO",90400,"Makeup Products",NA
+"827",75,24921,"4","NO",120000,"Online Recharge",NA
+"828",75,24921,"4","NO",120100,"Mobile Recharge",NA
+"829",75,24923,"4","NO",120000,"Online Recharge",NA
+"830",75,24923,"4","NO",120300,"DTH Recharge",NA
